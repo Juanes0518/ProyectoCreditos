@@ -1,0 +1,3342 @@
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:06:43----------------------
+UII:
+InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:06:43----------------------
+UII:
+InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+InterfazGUI.PanelGrande.PanelClientes.txInteres = '2'
+END UII
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:06:43----------------------
+UII:
+InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+InterfazGUI.PanelGrande.PanelClientes.txInteres = '2'
+END UII
+
+----------------------User clicked on 'Borrar' on 04/16/2019 18:08:08----------------------
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:08:08----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Julian Blanco'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'NUIP / Tarjeta de Identidad'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1000272137'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '78500'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '84'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.15'
+END UII
+
+----------------------User clicked on 'Borrar' on 04/16/2019 18:08:08----------------------
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:10:44----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '38000.0'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '2.0'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '2.11'
+END UII
+
+----------------------User clicked on 'Borrar' on 04/16/2019 18:10:44----------------------
+
+----------------------User clicked on 'Acerca De...' on 04/16/2019 18:13:43----------------------
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:13:43----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '0'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1'
+END UII
+
+----------------------User clicked on 'Borrar' on 04/16/2019 18:13:43----------------------
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:19:49----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1'
+END UII
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:21:02----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '0.1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1'
+END UII
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = ''
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = ''
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = ''
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/16/2019 18:21:02----------------------
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:23:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:23:27: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:24:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:24:24: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:24:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:24:24: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 18:24:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 18:24:24: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cerrar' on 04/16/2019 21:07:04----------------------
+
+----------------------User clicked on 'Cerrar' on 04/16/2019 21:09:32----------------------
+
+----------------------User clicked on 'Cerrar' on 04/16/2019 21:14:54----------------------
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 21:52:37----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '2'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/16/2019 21:52:37----------------------
+
+----------------------User clicked on 'Cerrar' on 04/16/2019 21:55:06----------------------
+
+----------------------User clicked on 'Cerrar' on 04/16/2019 22:11:59----------------------
+
+----------------------User clicked on 'Acerca De...' on 04/16/2019 22:15:11----------------------
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 22:45:00----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3222'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '3'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.23'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/16/2019 23:56:12----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/16/2019 23:56:12: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Borrar' on 04/16/2019 23:56:12----------------------
+
+----------------------User clicked on 'Cerrar' on 04/16/2019 23:56:12----------------------
+
+----------------------User clicked on 'Acerca De...' on 04/17/2019 00:08:09----------------------
+
+----------------------User clicked on 'Cerrar' on 04/17/2019 00:13:18----------------------
+
+----------------------User clicked on 'Acerca De...' on 04/17/2019 00:17:21----------------------
+
+----------------------User clicked on 'Guardar' on 04/17/2019 00:28:01----------------------
+
+----------------------User clicked on 'Obtener Ayuda' on 04/17/2019 00:29:05----------------------
+
+----------------------User clicked on 'Guardar Como' on 04/17/2019 00:43:07----------------------
+
+----------------------User clicked on 'Guardar Como' on 04/17/2019 00:44:54----------------------
+
+----------------------User clicked on 'Guardar Como' on 04/17/2019 00:48:47----------------------
+
+AN ERROR HAPPENED ON 04/17/2019 00:48:47: java.lang.NullPointerException
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 00:48:47----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Blanco'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '2'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '2.1'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/17/2019 00:48:47----------------------
+
+----------------------User clicked on 'Borrar' on 04/17/2019 00:48:47----------------------
+
+----------------------User clicked on 'Cargar' on 04/17/2019 00:50:52----------------------
+
+----------------------User clicked on 'Cerrar' on 04/17/2019 00:50:52----------------------
+
+----------------------User clicked on 'Cargar' on 04/17/2019 00:53:03----------------------
+
+File successfully loaded from C:\Users\Gabe\Documents\prueba1 on: 04/17/2019 00:53:03
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 00:53:03----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '82'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/17/2019 00:53:03----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\prueba1 on: 04/17/2019 00:53:03
+
+----------------------User clicked on 'Guardar Como' on 04/17/2019 00:53:03----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\prueba2.cred on: 04/17/2019 00:53:03
+
+----------------------User clicked on 'Borrar' on 04/17/2019 00:53:03----------------------
+
+----------------------User clicked on 'Cargar' on 04/17/2019 00:53:03----------------------
+
+File successfully loaded from C:\Users\Gabe\Documents\prueba2.cred on: 04/17/2019 00:53:03
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:06:17----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Blanco'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '2'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.2'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/17/2019 01:06:17----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel Blanco.cred on: 04/17/2019 01:06:17
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:06:17----------------------
+
+----------------------User clicked on 'Cargar' on 04/17/2019 01:06:17----------------------
+
+AN ERROR HAPPENED ON 04/17/2019 01:06:17: java.lang.NullPointerException
+
+----------------------User clicked on 'Cargar' on 04/17/2019 01:06:17----------------------
+
+AN ERROR HAPPENED ON 04/17/2019 01:06:17: java.lang.NullPointerException
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:06:17----------------------
+
+----------------------User clicked on 'Cargar' on 04/17/2019 01:07:32----------------------
+
+File successfully loaded from C:\Users\Gabe\Documents\Gabriel Blanco.cred on: 04/17/2019 01:07:32
+
+----------------------User clicked on 'Guardar Como' on 04/17/2019 01:09:20----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel Blanco.cred on: 04/17/2019 01:09:20
+
+----------------------User clicked on 'Guardar Como' on 04/17/2019 01:11:39----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel Blanco.cred on: 04/17/2019 01:11:39
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:12:44----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Blanco'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '109186'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '12890471'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.32'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/17/2019 01:12:44----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel Blanco.cred on: 04/17/2019 01:12:44
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:17:02----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '132098'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '019248'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '2'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '2.1'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-19248.0'
+END SWD
+
+----------------------User clicked on 'Guardar Como' on 04/17/2019 01:17:02----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel Blanco.cred on: 04/17/2019 01:17:02
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:19:28----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Ernesto'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '432'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '23339'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '5'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '3.2'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-23339.0'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/17/2019 01:19:28----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Ernesto.cred on: 04/17/2019 01:19:28
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:19:28----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:25:26----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '32'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '0'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:25:26----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:27:51----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '5.254374202889671'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:31:20----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:31:49----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:33:49----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:33:49----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:38:48----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:39:42----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:39:42----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:41:30----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '2.1799999999999997'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-0.3072787386011312'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-9763.122608669013'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:41:30----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 01:43:15----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 01:43:15----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:01:11----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:02:02----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:02:02----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:02:30----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1.18'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '12'
+END UII
+
+AN ERROR HAPPENED ON 04/17/2019 02:02:30: java.lang.NumberFormatException: For input string: "1.18"
+
+AN ERROR HAPPENED ON 04/17/2019 02:02:30: java.lang.NumberFormatException: For input string: "1.18"
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:02:30----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:02:30----------------------
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:02:30----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:03:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:03:24----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:03:59----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:03:59----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:04:27----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:05:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:05:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:05:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:05:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:05:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:05:05----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:06:25----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:06:25----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1,18'
+END UII
+
+AN ERROR HAPPENED ON 04/17/2019 02:06:25: java.lang.NumberFormatException: For input string: "1,18"
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:06:25----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1,18'
+END UII
+
+AN ERROR HAPPENED ON 04/17/2019 02:06:25: java.lang.NumberFormatException: For input string: "1,18"
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:06:25----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1,18'
+END UII
+
+AN ERROR HAPPENED ON 04/17/2019 02:06:25: java.lang.NumberFormatException: For input string: "1,18"
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:06:25----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:11:06----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:11:06----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:11:38----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:11:38----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:12:06----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:12:06----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:13:32----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '9.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:13:32----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:15:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:15:24----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:15:47----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:16:10----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:17:22----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:17:22----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:17:47----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '24.43'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:18:16----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '24.43'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:21:07----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '14579.432307'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:21:07----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:22:04----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430405'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:22:39----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:22:39----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:24:22----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:24:50----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.3051495828843043'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:25:15----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:25:15----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:25:36----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:26:53----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '0.0'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:26:53----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856557.2838653297'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565572.838653298'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856557.2838653297'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.4333'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30516427358901743'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.276914372523402'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856598.5194902903'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.303219601435212'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2979298870685843'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '851139.9866341747'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.45'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30523858957815064'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.276116572104126'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856807.1184955332'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.59'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3058597742524416'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2694631629485844'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '858550.7345091145'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.90'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3072237980091217'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.254947712733535'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '862379.4443821206'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30952018389879643'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.230799349532441'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '868825.2337323972'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '25.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.31373598784799817'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.187386813772493'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '880658.7226473844'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '25.20'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3127794637285153'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.1971340632079257'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '877973.8179585517'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '25.15'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3125705055335113'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.1992713444718373'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '877387.2853424388'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.99'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3118993693474348'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2061552750928715'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '875503.4485716512'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '25'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.311941426166497'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.205723023038074'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '875621.4993707713'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '25.05'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3121514881034022'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2035657895773486'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '876211.1298392694'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '25.02'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.31202549534020885'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.20485932513703'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '875857.4761717446'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '25.0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.311941426166497'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.205723023038074'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '875621.4993707713'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.99'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3118993693474348'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2061552750928715'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '875503.4485716512'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.80'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3110974583967576'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2144195205176294'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '873252.5366035542'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.70'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.310673223129172'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2188088102625336'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '872061.7363325331'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.75'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3108855295409174'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2166107150430814'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '872657.6663046416'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.79'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3110551027626913'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.214857209123934'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '873133.6471285835'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.78'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3110127320712772'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.215295172587711'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '873014.7153926431'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.77'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.3109703463113185'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2157334112006657'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '872895.7413643141'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:28:24----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2807000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '24.76'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.31092794547160585'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2161719252549323'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '872776.7250121434'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:32:11----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.6351495828843046'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.6115648442609518'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '45898.648791562424'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:32:11----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '24'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.6351495828843046'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.6115648442122981'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '45898.64879521395'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:32:11----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.6351495828843046'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.6115648442609518'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '45898.648791562424'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:33:10----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:33:10----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:34:02----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '30.514958288430428'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.032770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856554.8791562421'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:34:46----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '30.514958288430428'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.032770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856554.8791562421'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:36:25----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '-102.48504171156958'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-0.009757521520207466'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-2876755.1208437583'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:36:44----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '-2.48504171156958'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-0.40240773007371'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-69755.12124197601'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:37:00----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '30.514958288430428'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.032770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856554.8791562421'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:37:56----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '30.514958288430428'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.032770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8.565548791562421E8'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:38:45----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '3.0514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.32770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '85655.48791562421'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:39:35----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '30.514958288430428'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770813269606998'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.548791562422'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:39:35----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:39:59----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '30.514958288430428'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.32770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '85655.48791562421'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:39:59----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:40:22----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '3.0514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.548791562422'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:40:22----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:40:40----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '3.0514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '32.770813269607004'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856.554879156242'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:40:40----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:41:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '3.0514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.32770813269607'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '85655.48791562421'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:41:05----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:43:16----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.3006118024658182'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.7688689262269565'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '36508.173295215514'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:43:16----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:44:28----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '130.0611802465818'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'Infinity'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:44:28----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:44:48----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.3006118024658182'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-2.5513095512677916E-6'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-1.100219296637349E10'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:44:48----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:45:21----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.3006118024658182'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-2.5513095512677916E-6'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-1.100219296637349E10'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:45:21----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:45:40----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.013006118024658182'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-2.5513095512077034E92'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-1.1002192966632612E-88'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:45:40----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:47:42----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.013006118024658182'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-2.5513095512077034E92'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-1.1002192966632612E-88'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:48:10----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.013006118024658182'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '35.53712893613097'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '789.8781032775256'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:48:10----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:48:45----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.003051495828843043'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '44.587067446596116'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '629.5547477667301'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:49:13----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:49:42----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:49:42----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:50:08----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:50:08----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:50:25----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:50:25----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:50:56----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:50:56----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:51:32----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.3006118024658182'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.7688689262269565'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '36508.173295215514'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:51:32----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:52:25----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:52:25----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:52:55----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '-Infinity'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '-0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '-Infinity'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:52:55----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:53:46----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:53:46----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:55:21----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:55:21----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:55:44----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '1.3051495828843043'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.7661957013310754'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '36635.54879156242'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:55:44----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:56:16----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.15257479144215214'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '6.546978103205343'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '4287.474244989024'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:57:15----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.15257479144215214'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '99.2815449283943'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '282.7312973447902'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:57:15----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:58:00----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.2770721268436778'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '8565.572838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:58:00----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:58:39----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '32.77072126843678'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '85655.72838653298'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 02:59:00----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '28070'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '48'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '23.43'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.30514958288430427'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '32.77072126843678'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '856557.2838653297'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 02:59:00----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:17:08----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '38400'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '80.66953384357673'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '476016.1385642813'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:17:08----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:40:22----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2080'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '2.21'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.10206891465701018'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '67.45183120274675'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '30836.82033402377'
+END SWD
+
+----------------------User clicked on 'Cerrar' on 04/17/2019 03:40:22----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:41:04----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2080'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:41:04----------------------
+
+AN ERROR HAPPENED ON 04/17/2019 03:41:04: java.lang.NullPointerException
+
+AN ERROR HAPPENED ON 04/17/2019 03:41:04: java.lang.NullPointerException
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:41:04----------------------
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:41:04----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:43:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/17/2019 03:43:05: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:43:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2080'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.02'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06034195937680953'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.368148801670609'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '248.56154560549294'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:43:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2080'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06034195937680953'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.368148801670609'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '497.1230912109859'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:43:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2080'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06034195937680953'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.368148801670609'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '745.6846368164788'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:43:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2080'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06034195937680953'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.368148801670609'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '994.2461824219718'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:43:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2080'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06034195937680953'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.368148801670609'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1242.8077280274647'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:43:05----------------------
+
+AN ERROR HAPPENED ON 04/17/2019 03:43:05: java.lang.NullPointerException: null
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:44:58----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = ''
+END UII
+
+AN ERROR HAPPENED ON 04/17/2019 03:44:58: java.lang.NumberFormatException: empty String
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:44:58----------------------
+
+AN ERROR HAPPENED ON 04/17/2019 03:44:58: java.lang.NullPointerException: null, null
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:44:58----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3399'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '9'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '12.2'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.23988430039760478'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.566716181259865'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '952.9774244048141'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:44:58----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 03:44:58----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2300'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.21'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.25589616817099214'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '3.654035122341908'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1582.4185553718057'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 03:44:58----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:04:12----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '48000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.175505967331858'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5871.196252782527'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:05:06----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '58000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.175505967331858'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '7094.362138778887'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:05:06----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '58000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.12924016908640779'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '5.937971063216665'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '16862.00825603375'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 04:05:06----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:07:36----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '58000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.066953384357673'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '7189.827092897999'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:08:30----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '48000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.2'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.015309470499731193'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '10.886507581669319'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '4409.12750392259'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:12:00----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '48000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.21'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.068315073453733'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.01450228386275'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5989.142968571897'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:20:01----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '50000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.23'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0691174183667096'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '7.980180969723851'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '6265.522071453753'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:20:47----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Ernesto Blanco Larrota'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '500000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.175505967331858'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '61158.29429981799'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 04:24:26----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Ernesto Blanco Larrota'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '60000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '84'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.01388843034840992'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '49.39902851415819'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1214.598784727183'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/17/2019 04:24:26----------------------
+
+File successfully saved in C:\Users\Gabe\Desktop\GabenSimulation.cred on: 04/17/2019 04:24:26
+
+----------------------User clicked on 'Acerca De...' on 04/17/2019 04:24:26----------------------
+
+----------------------User clicked on 'Obtener Ayuda' on 04/17/2019 04:24:26----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 11:37:19----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '45000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.175505967331858'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5504.246486983619'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 11:37:19----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 11:40:05----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '23000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '2'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '1.8153144247712933'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '12669.98140165041'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/17/2019 11:40:05----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 11:41:52----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '2300'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '2.1'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.09887124196570296'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9100247251999809'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '2527.4038565211154'
+END SWD
+
+----------------------User clicked on 'Acerca De...' on 04/17/2019 12:18:41----------------------
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 12:30:23----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '48000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.066953384357673'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5950.201732053516'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 12:32:06----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '48000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.066953384357673'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5950.201732053516'
+END SWD
+
+AN ERROR HAPPENED ON 04/17/2019 12:32:06: java.lang.IllegalMonitorStateException: null, null
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 16:10:13----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Blanco'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '80500'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.066953384357673'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '9978.984154798085'
+END SWD
+
+AN ERROR HAPPENED ON 04/17/2019 16:10:13: java.lang.IllegalMonitorStateException: null, null
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 16:10:13----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Blanco'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '80500'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.13419797484371454'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '5.807352399179921'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '23840.72259715053'
+END SWD
+
+AN ERROR HAPPENED ON 04/17/2019 16:10:13: java.lang.IllegalMonitorStateException: null, null
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 16:11:07----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '80500'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '2.1'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.09887124196570296'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '6.85153075222517'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '11749.199253591038'
+END SWD
+
+AN ERROR HAPPENED ON 04/17/2019 16:11:07: java.lang.IllegalMonitorStateException: null, null
+
+----------------------User clicked on 'Cotizar' on 04/17/2019 16:11:26----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '80500'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.19'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06750604476973066'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.049338356102862'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '10000.821985445098'
+END SWD
+
+----------------------User clicked on 'Cerrar' on 04/17/2019 18:35:30----------------------
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:48:30----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.2'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06791140185295719'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9364072696151357'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5339.557009264789'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:48:30----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.2'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.13582280370591437'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.880419020235588'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '11018.671027794362'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/18/2019 13:48:30----------------------
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:49:04----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9393022116702495'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5323.100422716023'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:49:04----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9393022116702495'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5323.100422716023'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:49:04----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9393022116702495'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5323.100422716023'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:49:04----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9393022116702495'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5323.100422716023'
+END SWD
+
+----------------------User clicked on 'Borrar' on 04/18/2019 13:49:04----------------------
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:50:34----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:50:34----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.01'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '8.295381143461622E-4'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9991711494487907'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5004.147690571663'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:50:34----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.01'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '8.295381143461622E-4'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9991711494487907'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5004.147690571663'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:50:34----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.000'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:50:34----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.001'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '8.329516327321151E-5'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.999916711774435'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5000.4164758153565'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:50:34----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.001'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '8.329516327321151E-5'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.999916711774435'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '5000.4164758153565'
+END SWD
+
+----------------------User clicked on 'Cotizar' on 04/18/2019 13:50:34----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = ''
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '5000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.0'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.0'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = 'NaN'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = 'NaN'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/20/2019 18:44:01----------------------
+
+AN ERROR HAPPENED ON 04/20/2019 18:44:01: java.lang.NullPointerException: null, null
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 14:28:46----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Ernesto Blanco La Rotta'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '6000000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '84'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.73'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.04673603448588204'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '20.935421560661872'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '286595.6141659041'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 14:28:46----------------------
+
+File successfully saved in C:\Users\Gabe\Desktop\Prueba1.cred on: 04/21/2019 14:28:46
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 14:30:51----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '3123'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.175505967331858'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '381.9947061966632'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 14:30:51----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel.cred on: 04/21/2019 14:30:51
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 14:33:07----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '60000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '12'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06462008454320389'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '8.175505967331858'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '7338.99531597816'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 14:33:07----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel.cred on: 04/21/2019 14:33:07
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 15:50:28----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Ernesto Blanco La Rotta'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '4000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.001'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '8.329516327321151E-5'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.999916711774435'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '4000.3331806522856'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 15:50:28----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel.cred on: 04/21/2019 15:50:28
+
+----------------------User clicked on 'Borrar' on 04/21/2019 15:50:28----------------------
+
+----------------------User clicked on 'Cargar' on 04/21/2019 15:50:28----------------------
+
+File successfully loaded from C:\Users\Gabe\Documents\Gabriel.cred on: 04/21/2019 15:50:28
+
+----------------------User clicked on 'Cargar' on 04/21/2019 15:50:28----------------------
+
+File successfully loaded from C:\Users\Gabe\Documents\Gabriel.cred on: 04/21/2019 15:50:28
+
+----------------------User clicked on 'Cargar' on 04/21/2019 15:52:20----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 15:52:20: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 15:57:05----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 15:57:05: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 15:58:11----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 15:58:11: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:01:28----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:01:28: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 16:03:11----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Ernesto Blanco La Rotta'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '1000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9371201845257392'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1067.098987421857'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 16:03:11----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Gabriel.cred on: 04/21/2019 16:03:11
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:03:43----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:03:43: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 16:04:12----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '196555'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.1'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06377947814992213'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9400444552090402'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '1.0637794781499215'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 16:04:12----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Test.cred on: 04/21/2019 16:04:12
+
+----------------------User clicked on 'Borrar' on 04/21/2019 16:04:12----------------------
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:04:12----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:04:12: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 16:07:20----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '700000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '3'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.12'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.009488792934583046'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '2.943954967254822'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '237775.37624929627'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 16:07:20----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Test.cred on: 04/21/2019 16:07:20
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:07:20----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:07:20: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:08:48----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:08:48: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:12:10----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:12:10: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:13:57----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:13:57: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:16:07----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:16:07: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:17:52----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:17:52: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:18:19----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:18:19: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Guardar Como' on 04/21/2019 16:19:53----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Test.cred on: 04/21/2019 16:19:53
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:19:53----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:19:53: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:22:36----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:22:36: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:23:20----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:23:20: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 16:26:28----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel Blanco'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '50000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '1.18'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '0.06709898742185727'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.9371201845257392'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '53354.949371092844'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 16:26:28----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Test.cred on: 04/21/2019 16:26:28
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:26:28----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:26:28: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:27:26----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:27:26: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:28:03----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:28:03: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cotizar' on 04/21/2019 16:29:00----------------------
+UII BEGINS
+UII:InterfazGUI.PanelGrande.PanelClientes.txCliente = 'Gabriel'
+UII:InterfazGUI.PanelGrande.PanelClientes.lTipoDocumento2 = 'Cédula de Ciudadanía'
+UII:InterfazGUI.PanelGrande.PanelClientes.txDocumento = '1075680601'
+UII:InterfazGUI.PanelGrande.PanelClientes.txMonto = '50000'
+UII:InterfazGUI.PanelGrande.PanelClientes.txPlazo = '1'
+UII:InterfazGUI.PanelGrande.PanelClientes.txInteres = '0.001'
+END UII
+
+BEGIN SWD
+SWD:InterfazGUI.PanelGrande.PanelClientes.txTasaEfectiva = '8.329516327321151E-5'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorAnual = '0.999916711774435'
+SWD:InterfazGUI.PanelGrande.PanelClientes.txValorCuota = '50004.164758153565'
+END SWD
+
+----------------------User clicked on 'Guardar' on 04/21/2019 16:29:00----------------------
+
+File successfully saved in C:\Users\Gabe\Documents\Test.cred on: 04/21/2019 16:29:00
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:29:00----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:29:00: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:29:00----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:29:00: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:34:59----------------------
+
+File successfully loaded from C:\Users\Gabe\Documents\Test.cred on: 04/21/2019 16:34:59
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:42:00----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:42:00: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:42:16----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:42:16: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 16:43:02----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 16:43:02: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
+
+----------------------User clicked on 'Cargar' on 04/21/2019 22:18:53----------------------
+
+AN ERROR HAPPENED ON 04/21/2019 22:18:53: java.lang.ArrayIndexOutOfBoundsException: 1: 1, 1
