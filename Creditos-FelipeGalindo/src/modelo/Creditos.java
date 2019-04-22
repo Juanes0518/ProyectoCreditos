@@ -4,6 +4,7 @@ import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 
 public class Creditos {
+	
  int periodo;
  double interes;        
  double valorCuota=0;
